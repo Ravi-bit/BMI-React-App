@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  width: 40%;
+}
+
+.center header {
+  color: white;
+  background-color: #1565C0;
+  padding: 1px;
+  margin: 10px;
+}
+.inputSection {
+  margin: 20px;
+}
+
+.inputSection input {
+  padding: 10px;
+}
+
+.inputSection button {
+  width: 20%;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  background-color: #1565C0;
+  border: 0px white;
+}
+
+.resultFont {
+  font-family: sans-serif;
+  text-align: center;
+  font-size : 20px;
+}
